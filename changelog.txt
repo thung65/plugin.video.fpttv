@@ -1,0 +1,8 @@
+[1.0.0] - 2026-01-06
+- Khởi tạo Add-on TV Vietnam FPT.
+- Chuyển đổi hoàn toàn sang Python 3 cho Kodi 19/20/21.
+- Hỗ trợ chạy trên Android 10 đến Android 15.
+- Tối ưu hóa tính năng "Bấm là phát ngay" (Direct Play).
+- Thêm xử lý SSL để tránh lỗi load link trên Android đời cũ.
+- Tự động bóc tách Logo và Tên kênh từ link GitHub.
+- Sửa lỗi đứng hình khi tải danh sách kênh lớn.
