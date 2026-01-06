@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.tvvietnam" name="TV Vietnam FPT" version="1.0.0" provider-name="Gemini">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+    </requires>
+    <extension point="xbmc.python.video" library="main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="vi">Xem truyền hình từ link GitHub</summary>
+        <description lang="vi">Hỗ trợ Kodi 19+ trên Android 10.</description>
+        <platform>all</platform>
+    </extension>
+</addon>
