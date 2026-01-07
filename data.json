@@ -8,7 +8,7 @@
   {
     "name": "FPT IPTV",
     "url": "https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/fpt",
-    "icon": "special://home/addons/plugin.video.hieuhientv.remake/resources/fpt_icon.png",
+    "icon": "https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/fpt.png",
     "color": "lightblue",
     "note": "30004"
   },
