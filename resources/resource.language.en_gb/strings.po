@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: vi_vn\n"
+
+# Menu chính
+msgctxt "#30001"
+msgid "TỔNG HỢP - ALL"
+msgstr ""
+
+msgctxt "#30002"
+msgid "FPT IPTV"
+msgstr ""
+
+msgctxt "#30003"
+msgid "RADIO - QUỐC TẾ"
+msgstr ""
+
+msgctxt "#30004"
+msgid "(Chỉ dùng cho mạng FPT)"
+msgstr ""
+
+# Thông báo lỗi
+msgctxt "#30100"
+msgid "Đang nạp danh sách..."
+msgstr ""
+
+msgctxt "#30101"
+msgid "Lỗi kết nối GitHub!"
+msgstr ""
