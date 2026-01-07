@@ -1,0 +1,21 @@
+[
+  {
+    "name": "TỔNG HỢP - ALL",
+    "url": "https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/ducnt123",
+    "icon": "https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/tv.png",
+    "color": "orange"
+  },
+  {
+    "name": "FPT IPTV",
+    "url": "https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/fpt",
+    "icon": "https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/fpt.png",
+    "color": "lightblue",
+    "note": "(Chỉ dùng cho mạng FPT)"
+  },
+  {
+    "name": "RADIO - QUỐC TẾ",
+    "url": "https://raw.githubusercontent.com/luongtamlong/DAKLAK_RADIO/refs/heads/main/RadioVietNam.m3u",
+    "icon": "https://raw.githubusercontent.com/thung65/Iptv-vietnam/refs/heads/main/radio.png",
+    "color": "lightgreen"
+  }
+]
